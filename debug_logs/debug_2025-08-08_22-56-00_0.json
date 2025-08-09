@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Queria agendar um banho para meu pet",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-09T01:56:00.244Z",
+      "sao_paulo": "08/08/2025, 22:56:00"
+    }
+  },
+  "data": {
+    "output": "{\"intencoes\":[\"AGENDAMENTO\",\"COMERCIAL\"]}"
+  }
+}
