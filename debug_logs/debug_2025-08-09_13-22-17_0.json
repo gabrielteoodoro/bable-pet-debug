@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente FAQ Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-09T16:22:17.418Z",
+      "sao_paulo": "09/08/2025, 13:22:17"
+    }
+  },
+  "data": {
+    "output": "{\n  \"consultor\": \"faq\",\n  \"analise\": \"Intenção não relacionada a FAQ. Aguardando minha vez de atuar.\",\n  \"script_id_sugerido\": null,\n  \"proxima_acao_sugerida\": \"AGUARDANDO_DIRECIONAMENTO\",\n  \"variaveis\": {},\n  \"status_operacao\": {\n    \"acao_executada\": \"verificacao_de_escopo\",\n    \"sucesso\": true,\n    \"detalhes\": \"Nenhuma ação de FAQ foi necessária nesta etapa.\"\n  }\n}"
+  }
+}
