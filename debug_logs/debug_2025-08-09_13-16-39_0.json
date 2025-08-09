@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-09T16:16:39.075Z",
+      "sao_paulo": "09/08/2025, 13:16:39"
+    }
+  },
+  "data": {
+    "output": "{\"feedback_agendamento\":{\"id_script_sugerido\":\"SOLICITAR_TIPO_BANHO\",\"script_sugerido\":\"Claro! Temos algumas opções. Você gostaria de um Banho Simples (inclui limpeza de ouvidos e corte de unhas) ou o Banho Completo (inclui também tosa higiênica e hidratação)?\",\"variaveis\":{},\"ficha_atendimento\":{\"cliente_nome\":\"Gabriel Batista\",\"email\":\"gabriel.teodoro.batista@gmail.com\",\"pet_nome\":\"Lira\",\"pet_raca\":\"Indeterminada até 35 cm\",\"pet_tamanho\":\"G2 - Pequeno\",\"data_agendamento\":null,\"hora_agendamento\":null,\"servico\":\"banho\",\"id_evento_calendar\":null,\"id_atendimento_planilha\":null},\"analise\":\"Cliente cadastrado com pet já informado. Serviço genérico 'banho' detectado. Próximo passo é solicitar o tipo de banho para qualificar o serviço.\",\"status_operacao\":\"AGUARDANDO_RESPOSTA_CLIENTE\"}}"
+  }
+}
