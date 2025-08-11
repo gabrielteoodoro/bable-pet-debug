@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T23:40:52.789Z",
+      "sao_paulo": "11/08/2025, 20:40:52"
+    }
+  },
+  "data": {
+    "output": "Oi Gabriel! Que bom receber seu contato para agendar um banho para a Lira. Qual dia e horário você prefere? Estou aqui para ajudar a encontrar o melhor momento para vocês."
+  }
+}
