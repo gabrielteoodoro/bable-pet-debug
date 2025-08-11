@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Oi, tudo bem?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T23:36:33.550Z",
+      "sao_paulo": "11/08/2025, 20:36:33"
+    }
+  },
+  "data": {
+    "output": "Olá, Gabriel! Que bom te ver novamente na Bable Pet 🐾. Como estão a Lira e a Lola? Estou aqui para ajudar no que precisar hoje. Quer agendar um banho ou tem alguma dúvida? Fique à vontade para me contar!"
+  }
+}
