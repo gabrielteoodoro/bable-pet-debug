@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:02:50.215Z",
+      "sao_paulo": "11/08/2025, 12:02:50"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"fase_conversa\": \"INÍCIO DA CONVERSA\",\n    \"script_sugerido\": null,\n    \"script_personalizado\": null,\n    \"prioridade_mestre\": \"feedback_agendamento\",\n    \"analise\": \"Cliente cadastrado identificado. Status da loja presumido como ABERTO. Cliente iniciou fluxo de agendamento e comercial. Delegando para o especialista.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"CADASTRADO\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"Cliente\": \"Gabriel Batista\",\n      \"DDD\": \"16\",\n      \"Telefone\": \"993448117\",\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"1. Lira\",\n      \"Raça do Pet\": \"1. Indeterminada até 35 cm\",\n      \"Tamanho do Pet\": \"1. G2 - Pequeno\",\n      \"Status do Pet\": \"1. ativo\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": \"1\"\n    }\n  }\n}"
+  }
+}
