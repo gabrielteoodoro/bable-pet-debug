@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T23:38:04.101Z",
+      "sao_paulo": "11/08/2025, 20:38:04"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"consultor\": \"comercial\",\n    \"script_id_sugerido\": null,\n    \"script_sugerido\": null,\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_tamanho\": \"G2 - Pequeno\",\n      \"servico\": \"banho\"\n    },\n    \"variaveis\": {},\n    \"analise\": \"Mensagem não contém palavras-chave explícitas de preço. Cliente solicitou agendamento de banho para Lira, portanto não é momento de cotação comercial. Aguardando dados adicionais para prosseguir com agendamento.\",\n    \"status_operacao\": {\n      \"contextualizacao_aplicada\": false,\n      \"expertise_demonstrada\": false,\n      \"transicao_agendamento\": true,\n      \"personalizacao_ativa\": true\n    }\n  }\n}"
+  }
+}
