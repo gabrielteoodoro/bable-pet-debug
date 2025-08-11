@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Para amanha daria?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T23:42:43.417Z",
+      "sao_paulo": "11/08/2025, 20:42:43"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"AGENDAMENTO\",\n    \"secundarias\": [],\n    \"contextuais\": [\"URGENCIA\", \"SEGUIMENTO\"]\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"urgente\",\n    \"confianca_classificacao\": 90,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"amanha\", \"daria\"]\n  },\n  \"justificativa_rapida\": \"Cliente confirma interesse em agendar banho para amanhã, demonstrando urgência moderada e continuidade na conversa.\"\n}"
+  }
+}
