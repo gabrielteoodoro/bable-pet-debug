@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:44:59.163Z",
+      "sao_paulo": "11/08/2025, 12:44:59"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"consultor\": \"comercial\",\n    \"script_id_sugerido\": \"SOLICITAR_TAMANHO_HUMANIZADO\",\n    \"script_sugerido\": \"Que lindo o Thor! Golden Retrievers são cães incríveis, conhecidos por sua pelagem densa e brilhante que merece cuidados especiais para manter a saúde e o brilho. Para oferecer o melhor banho para ele, poderia me informar se o Thor é de porte pequeno, médio ou grande?\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Thor\",\n      \"pet_raca\": \"Golden\",\n      \"pet_tamanho\": null,\n      \"servico\": \"banho\",\n      \"contextualizacao_raca\": \"Golden Retrievers são cães incríveis, conhecidos por sua pelagem densa e brilhante que merece cuidados especiais para manter a saúde e o brilho.\"\n    },\n    \"variaveis\": {\n      \"nome_cliente\": \"Gabriel Batista\",\n      \"nome_pet\": \"Thor\",\n      \"raca_pet\": \"Golden\",\n      \"contexto_raca\": \"Golden Retrievers são cães incríveis, conhecidos por sua pelagem densa e brilhante que merece cuidados especiais para manter a saúde e o brilho.\",\n      \"transicao_agendamento\": \"Assim que soubermos o porte do Thor, já posso te passar o preço e ajudar a agendar o banho para ele.\"\n    },\n    \"analise\": \"Contextualização empática por raça realizada. Porte do pet ainda não informado, solicitando para cotação precisa. Transição para agendamento incluída.\",\n    \"status_operacao\": {\n      \"contextualizacao_aplicada\": true,\n      \"expertise_demonstrada\": true,\n      \"transicao_agendamento\": true,\n      \"personalizacao_ativa\": true\n    }\n  }\n}"
+  }
+}
