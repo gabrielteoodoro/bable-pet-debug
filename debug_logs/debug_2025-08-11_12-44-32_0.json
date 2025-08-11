@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:44:32.301Z",
+      "sao_paulo": "11/08/2025, 12:44:32"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"fase_conversa\": \"INÍCIO DA CONVERSA\",\n    \"script_sugerido\": \"BEMVINDO_CLIENTE_CADASTRADO\",\n    \"script_personalizado\": \"Olá novamente, Gabriel Batista! Bem-vindo de volta à BablePet 🐾. Vamos dar sequência ao seu atendimento? O que você precisa hoje?\",\n    \"prioridade_mestre\": \"feedback_agendamento\",\n    \"analise\": \"Cliente cadastrado identificado. Intenção principal de agendamento detectada. Delegando para especialista de agendamento.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"CADASTRADO\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"Cliente\": \"Gabriel Batista\",\n      \"DDD\": \"16\",\n      \"Telefone\": \"993448117\",\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"1. Lira\\n2. Lola\",\n      \"Raça do Pet\": \"1. Indeterminada até 35 cm\\n2. 1. Indeterminada até 35 cm\",\n      \"Tamanho do Pet\": \"1. G2 - Pequeno\\n2. 1. G2 - Pequeno\",\n      \"Status do Pet\": \"1. ativo\\n2. 1. ativo\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": \"2\"\n    }\n  }\n}"
+  }
+}
