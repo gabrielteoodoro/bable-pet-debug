@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T23:49:41.192Z",
+      "sao_paulo": "11/08/2025, 20:49:41"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"id_script_sugerido\": \"CONFIRMAR_PET_CADASTRADO\",\n    \"script_sugerido\": \"Olá Gabriel, confirmando que você deseja agendar um banho para a Lira, certo? Vamos prosseguir com o agendamento. Por favor, me informe a data que você prefere para o banho.\",\n    \"variaveis\": {\n      \"nome_cliente\": \"Gabriel Batista\",\n      \"nome_pet\": \"Lira\",\n      \"servico\": \"banho\",\n      \"data\": \"\",\n      \"horario\": \"\",\n      \"grupo_pet\": \"G2\"\n    },\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"G2 - Pequeno\",\n      \"servico\": \"banho\",\n      \"data_agendamento\": \"\",\n      \"hora_agendamento\": \"\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente já cadastrado com pet identificado deseja agendar banho. Confirmamos o pet e serviço, agora solicitamos a data para prosseguir com a reserva. Ficha atualizada com dados do cliente e pet, grupo determinado conforme cadastro.\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
