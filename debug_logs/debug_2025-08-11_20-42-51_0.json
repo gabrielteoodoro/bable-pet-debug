@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T23:42:51.424Z",
+      "sao_paulo": "11/08/2025, 20:42:51"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"fase_conversa\": \"SEGUIMENTO_CONVERSA\",\n    \"contexto_emocional\": {\n      \"tom_detectado\": \"urgente\",\n      \"confianca_analise\": 90,\n      \"abordagem_aplicada\": \"acolhedora\"\n    },\n    \"script_sugerido\": null,\n    \"script_personalizado\": \"Olá Gabriel! Entendo que você gostaria de agendar o banho para amanhã. Vou verificar a disponibilidade para garantir o melhor horário para a Lira. Um momento, por favor.\",\n    \"prioridade_mestre\": \"feedback_agendamento\",\n    \"insights_comportamentais\": {\n      \"perfil_interacao\": \"urgente\",\n      \"historico_relevante\": \"cliente_recorrente\",\n      \"personalização_aplicada\": \"tom_urgente|nome_cliente_incluido|nome_pet_incluido\"\n    },\n    \"recomendacao_downstream\": {\n      \"abordagem_sugerida\": \"técnica_direta\",\n      \"pontos_enfoque\": [\"disponibilidade_rapida\", \"flexibilidade_horarios\"],\n      \"tom_recomendado\": \"profissional_acolhedor\"\n    },\n    \"analise\": \"Cliente demonstra urgência para agendar banho para amanhã. Abordagem acolhedora para confirmar disponibilidade e manter conexão positiva.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"CADASTRADO\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"Cliente\": \"Gabriel Batista\",\n      \"DDD\": 16,\n      \"Telefone\": 993448117,\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"Lira, Lola\",\n      \"Raça do Pet\": \"Indeterminada até 35 cm\",\n      \"Tamanho do Pet\": \"G2 - Pequeno\",\n      \"Status do Pet\": \"ativo\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": 2\n    }\n  }\n}"
+  }
+}
