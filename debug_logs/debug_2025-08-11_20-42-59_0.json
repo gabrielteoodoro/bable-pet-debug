@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T23:42:59.614Z",
+      "sao_paulo": "11/08/2025, 20:42:59"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"id_script_sugerido\": \"APRESENTAR_VAGAS\",\n    \"script_sugerido\": \"Gabriel, para amanhã temos os seguintes horários disponíveis para o banho da Lira: 09:00, 09:30, 10:00, 10:30, 11:00, 11:30, 13:00, 13:30, 14:30, 15:00, 15:30. O horário das 14:00 já está reservado. Por favor, escolha o horário que melhor lhe convém.\",\n    \"variaveis\": {\n      \"opcoes_horario\": [\"09:00\", \"09:30\", \"10:00\", \"10:30\", \"11:00\", \"11:30\", \"13:00\", \"13:30\", \"14:30\", \"15:00\", \"15:30\"]\n    },\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_tamanho\": \"G2 - Pequeno\",\n      \"data_agendamento\": \"2025-08-12\",\n      \"hora_agendamento\": null,\n      \"servico\": \"banho\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Verificada a agenda para 12/08/2025, horários disponíveis apresentados ao cliente para escolha, excluindo horário já reservado às 14:00.\",\n    \"status_operacao\": \"AGUARDANDO_ESCOLHA_HORARIO\"\n  }\n}"
+  }
+}
