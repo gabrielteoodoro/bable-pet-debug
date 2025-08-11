@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:03:09.880Z",
+      "sao_paulo": "11/08/2025, 12:03:09"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"id_script_sugerido\": \"CONFIRMACAO_AGENDAMENTO\",\n    \"script_sugerido\": \"Perfeito, Gabriel! Seu agendamento para o serviço de banho completo para o(a) Lola foi realizado com sucesso para o dia 12/08/2025 às 14:00. Agradecemos a confiança!\",\n    \"variaveis\": {},\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"teste@validator.com\",\n      \"pet_nome\": \"Lola\",\n      \"pet_raca\": \"1. Indeterminada até 35 cm\",\n      \"pet_tamanho\": \"1. G2 - Pequeno\",\n      \"data_agendamento\": \"12/08/2025\",\n      \"hora_agendamento\": \"14:00\",\n      \"servico\": \"banho completo\",\n      \"id_evento_calendar\": \"8k6bgf0br30vhfutbak7q4f88o\",\n      \"id_atendimento_planilha\": \"8k6bgf0br30vhfutbak7q4f88o\"\n    },\n    \"analise\": \"Agendamento criado com sucesso para Lola no dia 12/08/2025 às 14:00 com serviço banho completo e email teste@validator.com.\",\n    \"status_operacao\": \"FINALIZADO\"\n  }\n}"
+  }
+}
