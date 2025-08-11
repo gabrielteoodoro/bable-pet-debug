@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Oi, tudo bem?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T23:48:27.198Z",
+      "sao_paulo": "11/08/2025, 20:48:27"
+    }
+  },
+  "data": {
+    "output": "Olá novamente, Gabriel Batista! 🐾 Que bom te ver por aqui. Como posso ajudar você e a Lira hoje?"
+  }
+}
