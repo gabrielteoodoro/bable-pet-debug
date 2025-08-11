@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T23:49:49.816Z",
+      "sao_paulo": "11/08/2025, 20:49:49"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"consultor\": \"comercial\",\n    \"script_id_sugerido\": \"SOLICITAR_RACA_HUMANIZADO\",\n    \"script_sugerido\": \"Que amor a Lira! Para te passar o preço certinho do banho, você poderia me informar qual é a raça dela? Assim posso explicar os cuidados especiais que cada raça merece e garantir o melhor para ela.\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_tamanho\": null,\n      \"servico\": \"banho\"\n    },\n    \"variaveis\": {\n      \"nome_cliente\": \"Gabriel Batista\",\n      \"nome_pet\": \"Lira\"\n    },\n    \"analise\": \"Não foi possível determinar o porte do pet pela raça informada. Solicitado gentilmente que o cliente informe a raça para contextualização e cotação precisa.\",\n    \"status_operacao\": {\n      \"contextualizacao_aplicada\": false,\n      \"expertise_demonstrada\": false,\n      \"transicao_agendamento\": false,\n      \"personalizacao_ativa\": true\n    }\n  }\n}"
+  }
+}
