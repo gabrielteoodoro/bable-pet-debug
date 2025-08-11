@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:02:35.369Z",
+      "sao_paulo": "11/08/2025, 12:02:35"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"consultor\": \"comercial\",\n    \"script_id_sugerido\": null,\n    \"script_sugerido\": null,\n    \"ficha_comercial\": {\n      \"cliente_nome\": null,\n      \"pet_nome\": \"Thor\",\n      \"pet_raca\": \"Husky Siberiano\",\n      \"pet_tamanho\": null,\n      \"servico\": \"banho\",\n      \"contextualizacao_raca\": null\n    },\n    \"variaveis\": {},\n    \"analise\": \"Mensagem sem palavra-chave de preço, aguardando pergunta de valor. Ficha comercial atualizada.\",\n    \"status_operacao\": {\n      \"contextualizacao_aplicada\": false,\n      \"expertise_demonstrada\": false,\n      \"transicao_agendamento\": false,\n      \"personalizacao_ativa\": false\n    }\n  }\n}"
+  }
+}
