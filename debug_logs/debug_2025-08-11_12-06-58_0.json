@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:06:58.549Z",
+      "sao_paulo": "11/08/2025, 12:06:58"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"consultor\": \"comercial\",\n    \"script_id_sugerido\": null,\n    \"script_sugerido\": null,\n    \"ficha_comercial\": {\n      \"cliente_nome\": null,\n      \"pet_nome\": \"Rex\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_tamanho\": null,\n      \"servico\": \"tosa\"\n    },\n    \"variaveis\": {},\n    \"analise\": \"Mensagem não contém palavras-chave explícitas de preço. Nenhuma cotação solicitada no momento. Aguardando solicitação de preço para agir.\",\n    \"status_operacao\": {\n      \"contextualizacao_aplicada\": false,\n      \"expertise_demonstrada\": false,\n      \"transicao_agendamento\": false,\n      \"personalizacao_ativa\": false\n    }\n  }\n}"
+  }
+}
