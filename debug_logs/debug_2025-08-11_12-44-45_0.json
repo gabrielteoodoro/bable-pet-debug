@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-11T15:44:45.176Z",
+      "sao_paulo": "11/08/2025, 12:44:45"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"id_script_sugerido\": \"COLETAR_NOME_TUTOR\",\n    \"script_sugerido\": \"Para que eu possa iniciar o seu atendimento e criar seu cadastro, por favor, poderia me informar seu nome completo?\",\n    \"variaveis\": {},\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"pet_nome\": \"Thor\",\n      \"pet_raca\": \"Golden\",\n      \"pet_tamanho\": null,\n      \"data_agendamento\": null,\n      \"hora_agendamento\": null,\n      \"servico\": \"banho\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente cadastrado com pets diferentes. Cliente quer agendar para pet Thor que não consta na ficha. Iniciando coleta do nome do tutor para confirmar dados e criar cadastro do pet Thor.\",\n    \"status_operacao\": \"AGUARDANDO_NOME_TUTOR\"\n  }\n}"
+  }
+}
