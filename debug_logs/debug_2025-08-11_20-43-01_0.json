@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Para amanha daria?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T23:43:01.908Z",
+      "sao_paulo": "11/08/2025, 20:43:01"
+    }
+  },
+  "data": {
+    "output": "Gabriel, para amanhã temos horários disponíveis às 09:00, 09:30, 10:00, 10:30, 11:00, 11:30, 13:00, 13:30, 14:30, 15:00 e 15:30. O horário das 14:00 já está reservado. Qual desses seria melhor para a Lira?"
+  }
+}
