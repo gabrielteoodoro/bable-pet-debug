@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Oi! Quero agendar banho para meu Golden chamado Thor",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-11T15:45:00.834Z",
+      "sao_paulo": "11/08/2025, 12:45:00"
+    }
+  },
+  "data": {
+    "output": "Para que eu possa iniciar o seu atendimento e criar seu cadastro, por favor, poderia me informar seu nome completo?"
+  }
+}
