@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Oi! Quanto custa banho para minha Poodle Luna?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:22:31.326Z",
+      "sao_paulo": "14/08/2025, 14:22:31"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"COMERCIAL\",\n    \"secundarias\": [\"AGENDAMENTO\", \"SAUDACAO\"],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 90,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"oi\", \"quanto\", \"custa\", \"banho\", \"Poodle\", \"Luna\"]\n  },\n  \"justificativa_rapida\": \"Cliente inicia com saudação e consulta preço de banho para pet específico, indicando interesse comercial e possível agendamento.\"\n}"
+  }
+}
