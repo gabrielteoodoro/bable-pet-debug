@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "É uma Poodle",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T18:01:44.476Z",
+      "sao_paulo": "14/08/2025, 15:01:44"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"AGENDAMENTO\",\n    \"secundarias\": [\"COMERCIAL\"],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 99,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"Poodle\", \"banho\", \"agendar\", \"pet\"]\n  },\n  \"justificativa_rapida\": \"Cliente especificou que o pet é uma Poodle, indicando necessidade de banho especializado para pelagem delicada, reforçando interesse comercial e agendamento personalizado.\"\n}"
+  }
+}
