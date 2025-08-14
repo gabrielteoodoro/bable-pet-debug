@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:45:12.575Z",
+      "sao_paulo": "14/08/2025, 14:45:12"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"INFORMAR_PRECO\",\n    \"script_sugerido\": \"Olá Gabriel! Sabemos que seus pets Lira e Lola, de porte pequeno, merecem um banho especial para ficarem sempre confortáveis e felizes. O banho para pets do grupo G2 custa R$ 80,00 avulso. Como você é um cliente ativo, queremos lembrar que temos um clube de assinatura que pode reduzir esse valor para R$ 65,00 por banho, além de oferecer vários benefícios exclusivos. Que tal aproveitarmos essa oportunidade para cuidar ainda melhor dos seus pets? Posso já te ajudar a agendar o primeiro banho?\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira, Lola\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"banho\",\n      \"contextualizacao_raca\": \"Pets pequenos como Lira e Lola exigem cuidados delicados para garantir conforto e bem-estar durante o banho, evitando estresse e promovendo uma experiência agradável.\",\n      \"status_assinante\": \"NAO_ASSINANTE\"\n    },\n    \"analise\": \"Contextualização empática realizada destacando cuidados para pets pequenos, preço informado com personalização e oferta do clube de assinatura, criando ponte natural para agendamento.\",\n    \"proxima_acao_sugerida\": \"TRANSICAO_AGENDAMENTO\",\n    \"status_operacao\": \"cotacao_fornecida_com_expertise\"\n  }\n}"
+  }
+}
