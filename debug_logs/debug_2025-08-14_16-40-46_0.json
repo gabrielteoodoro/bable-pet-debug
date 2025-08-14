@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Oi, tudo bem?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T19:40:46.026Z",
+      "sao_paulo": "14/08/2025, 16:40:46"
+    }
+  },
+  "data": {
+    "output": "Olá! Que alegria te receber na Bable Pet! 😃 Para clientes novos, temos 50% de desconto no primeiro banho de segunda a quinta-feira. Qual o seu nome completo para começarmos?"
+  }
+}
