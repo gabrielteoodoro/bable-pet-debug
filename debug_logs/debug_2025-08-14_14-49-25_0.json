@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:49:25.662Z",
+      "sao_paulo": "14/08/2025, 14:49:25"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"COMERCIAL_POODLE_HUMANIZADO\",\n    \"script_sugerido\": \"Gabriel, que bom saber que a Lira é uma Poodle! Essa raça é conhecida por sua pelagem linda que requer cuidados especiais para evitar nós e manter o pelo saudável e macio. O banho para Poodles do grupo G2 costuma custar em torno de R$ 80,00 avulso. Como você não é assinante, gostaria de aproveitar nosso clube de assinatura que oferece banhos por R$ 65,00 cada, além de benefícios exclusivos que garantem ainda mais cuidado e economia para a Lira. Quer que eu já te ajude a agendar o primeiro banho com essa condição especial?\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"banho\",\n      \"contextualizacao_raca\": \"Poodles exigem cuidados específicos para manter o pelo saudável e evitar nós, garantindo conforto e beleza.\",\n      \"status_assinante\": \"NAO_ASSINANTE\"\n    },\n    \"analise\": \"Ficha atualizada com raça Poodle e oferta comercial personalizada, demonstrando expertise e criando conexão emocional. Transição natural para agendamento incluída.\",\n    \"proxima_acao_sugerida\": \"TRANSICAO_AGENDAMENTO\",\n    \"status_operacao\": \"cotacao_fornecida_com_expertise\"\n  }\n}"
+  }
+}
