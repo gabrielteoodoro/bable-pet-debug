@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Oi, tudo bem?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:49:48.516Z",
+      "sao_paulo": "14/08/2025, 14:49:48"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"SAUDACAO\",\n    \"secundarias\": [],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 98,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"oi\", \"tudo bem\"]\n  },\n  \"justificativa_rapida\": \"Mensagem é uma saudação genuína, com tom positivo e sem outras intenções explícitas.\"\n}"
+  }
+}
