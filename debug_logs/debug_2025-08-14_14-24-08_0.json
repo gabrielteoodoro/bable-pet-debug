@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Preciso agendar tosa pro meu Golden Bobby hoje ainda!",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:24:08.130Z",
+      "sao_paulo": "14/08/2025, 14:24:08"
+    }
+  },
+  "data": {
+    "output": "Oi! Para agendar a tosa do Bobby hoje, pode me informar seu nome completo e o horário que prefere? Assim já verifico a disponibilidade para você."
+  }
+}
