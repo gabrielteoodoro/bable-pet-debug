@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:22:55.705Z",
+      "sao_paulo": "14/08/2025, 14:22:55"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"script_id_sugerido\": \"COLETAR_NOME_TUTOR\",\n    \"script_sugerido\": \"Olá! Para agendar o banho da Luna, por favor, poderia me informar seu nome completo?\",\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"\",\n      \"email\": \"\",\n      \"pet_nome\": \"Luna\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_grupo\": \"\",\n      \"pet_tamanho\": \"\",\n      \"servico\": \"banho\",\n      \"data_agendamento\": \"\",\n      \"hora_agendamento\": \"\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente novo com pet Luna da raça Poodle deseja agendar banho. Nome do tutor ainda não informado, iniciando coleta sequencial de dados para agendamento.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
