@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Gabriel Silva",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T18:01:56.351Z",
+      "sao_paulo": "14/08/2025, 15:01:56"
+    }
+  },
+  "data": {
+    "output": "Oi Gabriel Silva! Confirmando o banho da Lira, sua Poodle, para amanhã de manhã com todo cuidado especial que ela merece. Está tudo certo para esse horário?"
+  }
+}
