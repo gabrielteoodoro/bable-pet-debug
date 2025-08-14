@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:25:11.161Z",
+      "sao_paulo": "14/08/2025, 14:25:11"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"fase_conversa\": \"PRIMEIRA_INTERACAO\",\n    \"contexto_emocional\": {\n      \"tom_detectado\": \"neutro\",\n      \"confianca_analise\": 95,\n      \"abordagem_aplicada\": \"educativa_consultiva\"\n    },\n    \"script_sugerido\": \"SAUDACAO_COM_INTENCAO_FAQ\",\n    \"script_personalizado\": \"Olá! Que bom te ter por aqui! Sim, funcionamos aos sábados das 9h às 18h. Posso ajudar com mais alguma informação?\",\n    \"prioridade_mestre\": \"feedback_faq\",\n    \"insights_comportamentais\": {\n      \"perfil_interacao\": \"exploratório\",\n      \"historico_relevante\": \"cliente_novo\",\n      \"personalização_aplicada\": \"tom_adaptado|status_reconhecido\"\n    },\n    \"recomendacao_downstream\": {\n      \"abordagem_sugerida\": \"educativa_consultiva\",\n      \"pontos_enfoque\": [\"horário_funcionamento\", \"dias_abertura\"],\n      \"tom_recomendado\": \"profissional_acolhedor\"\n    },\n    \"analise\": \"Cliente busca informação sobre funcionamento no sábado com tom neutro. Resposta informativa e acolhedora fornecida.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"NOVO\",\n      \"contexto_emocional\": \"neutro\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"\",\n      \"Cliente\": \"\",\n      \"DDD\": \"\",\n      \"Telefone\": \"5516993448117\",\n      \"Status Cliente\": \"NOVO\",\n      \"Nome do Pet\": \"\",\n      \"Raça do Pet\": \"\",\n      \"Tamanho do Pet\": \"\",\n      \"Status do Pet\": \"\",\n      \"Loja\": \"\",\n      \"Visitas\": 0\n    }\n  }\n}"
+  }
+}
