@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:45:21.574Z",
+      "sao_paulo": "14/08/2025, 14:45:21"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"fase_conversa\": \"SEGUIMENTO_CONVERSA\",\n    \"contexto_emocional\": {\n      \"tom_detectado\": \"positivo\",\n      \"confianca_analise\": 90,\n      \"abordagem_aplicada\": \"empática\"\n    },\n    \"script_sugerido\": null,\n    \"script_personalizado\": \"Perfeito! Vamos agendar o banho para a Lira. Por favor, me informe o dia e horário que prefere para o atendimento.\",\n    \"prioridade_mestre\": \"feedback_agendamento\",\n    \"insights_comportamentais\": {\n      \"perfil_interacao\": \"decidido\",\n      \"historico_relevante\": \"cliente_recorrente\",\n      \"personalização_aplicada\": \"nome_cliente|nome_pet|tom_adaptado\"\n    },\n    \"recomendacao_downstream\": {\n      \"abordagem_sugerida\": \"empática_comercial\",\n      \"pontos_enfoque\": [\"flexibilidade_agendamento\", \"atenção_personalizada\"],\n      \"tom_recomendado\": \"caloroso\"\n    },\n    \"analise\": \"Confirmação do pet Lira para agendamento, mantendo tom positivo e empático, solicitando data e horário para prosseguir.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"ativo\",\n      \"contexto_emocional\": \"positivo\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"\",\n      \"Cliente\": \"\",\n      \"DDD\": \"\",\n      \"Telefone\": \"5516993448117\",\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"Lira\",\n      \"Raça do Pet\": \"\",\n      \"Tamanho do Pet\": \"\",\n      \"Status do Pet\": \"\",\n      \"Loja\": \"\",\n      \"Visitas\": 0\n    }\n  }\n}"
+  }
+}
