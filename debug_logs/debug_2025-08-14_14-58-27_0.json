@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:58:27.259Z",
+      "sao_paulo": "14/08/2025, 14:58:27"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"COMERCIAL_BANHO_PEQUENO_HUMANIZADO\",\n    \"script_sugerido\": \"Gabriel, a Lira, sendo uma pet de porte pequeno, merece um banho especial que cuide delicadamente da pelagem e do conforto dela. Nosso banho para pets do grupo G2 é pensado para manter a saúde da pele e o brilho dos pelos, usando produtos adequados para pets sensíveis. Como você é um cliente ativo, podemos oferecer condições especiais para esse serviço. Que tal já agendarmos o banho para a Lira e garantir esse cuidado com todo carinho que ela merece?\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"banho padrão\",\n      \"contextualizacao_raca\": \"Pets pequenos, como a Lira, precisam de um banho cuidadoso para preservar a saúde da pele e a maciez da pelagem, garantindo conforto e bem-estar.\",\n      \"status_assinante\": \"DESCONHECIDO\"\n    },\n    \"analise\": \"Cliente confirmou o pet Lira para agendamento de banho. Foi fornecida contextualização empática sobre o cuidado especial para pets pequenos, com oferta personalizada para cliente ativo. Transição natural para agendamento incluída.\",\n    \"proxima_acao_sugerida\": \"TRANSICAO_AGENDAMENTO\",\n    \"status_operacao\": \"cotacao_fornecida_com_expertise\"\n  }\n}"
+  }
+}
