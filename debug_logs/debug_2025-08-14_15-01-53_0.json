@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T18:01:53.852Z",
+      "sao_paulo": "14/08/2025, 15:01:53"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"fase_conversa\": \"PRIMEIRA_INTERACAO\",\n    \"contexto_emocional\": {\n      \"tom_detectado\": \"positivo\",\n      \"confianca_analise\": 99,\n      \"abordagem_aplicada\": \"empática\"\n    },\n    \"script_sugerido\": \"COLETAR_CONFIRMACAO_DATA\",\n    \"script_personalizado\": \"Gabriel Silva, ótimo saber que a Lira é uma Poodle! Os Poodles têm uma pelagem linda que precisa de cuidados especiais. Vamos agendar o banho para amanhã de manhã, conforme sua preferência? Por favor, confirme para que eu possa garantir o melhor horário para vocês.\",\n    \"prioridade_mestre\": \"feedback_agendamento\",\n    \"insights_comportamentais\": {\n      \"perfil_interacao\": \"decidido\",\n      \"historico_relevante\": \"cliente_recorrente\",\n      \"personalização_aplicada\": \"nome_cliente|nome_pet|raca_poodle|tom_positivo|abordagem_empática\"\n    },\n    \"recomendacao_downstream\": {\n      \"abordagem_sugerida\": \"empática_comercial\",\n      \"pontos_enfoque\": [\"cuidado_especial_poodle\", \"agendamento_eficiente\", \"conforto_do_pet\"],\n      \"tom_recomendado\": \"caloroso\"\n    },\n    \"analise\": \"Cliente confirmou interesse em agendamento para Poodle amanhã de manhã, com tom positivo e decidido. Próximo passo é confirmar a data para garantir o horário.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"ativo\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"gabriel.silva@email.com\",\n      \"Cliente\": \"Gabriel Silva\",\n      \"DDD\": \"16\",\n      \"Telefone\": \"993448117\",\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"Lira\",\n      \"Raça do Pet\": \"Poodle\",\n      \"Tamanho do Pet\": \"Pequeno\",\n      \"Status do Pet\": \"ativo\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": 2\n    }\n  }\n}"
+  }
+}
