@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Amanhã de manhã se possível",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T18:02:08.178Z",
+      "sao_paulo": "14/08/2025, 15:02:08"
+    }
+  },
+  "data": {
+    "output": "Gabriel, para amanhã de manhã temos horários às 9h, 9h30, 10h, 10h30, 11h e 11h30 para o banho da Lira. Qual desses fica melhor para você? Posso já reservar!"
+  }
+}
