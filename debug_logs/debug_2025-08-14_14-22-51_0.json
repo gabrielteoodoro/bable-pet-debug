@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:22:51.386Z",
+      "sao_paulo": "14/08/2025, 14:22:51"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"fase_conversa\": \"PRIMEIRA_INTERACAO\",\n    \"contexto_emocional\": {\n      \"tom_detectado\": \"positivo\",\n      \"confianca_analise\": 90,\n      \"abordagem_aplicada\": \"empática\"\n    },\n    \"script_sugerido\": \"SAUDACAO_COM_INTENCAO_COMERCIAL\",\n    \"script_personalizado\": \"Olá Luna! Que linda Poodle você tem! Os Poodles têm uma pelagem linda que precisa de cuidados especiais. O banho para a Luna inclui um cuidado especial para manter a pelagem sempre saudável e brilhante. Posso te passar os valores e opções disponíveis, Gabriel? 😊\",\n    \"prioridade_mestre\": \"feedback_comercial\",\n    \"insights_comportamentais\": {\n      \"perfil_interacao\": \"exploratório\",\n      \"historico_relevante\": \"cliente_recorrente\",\n      \"personalização_aplicada\": \"raca_contextualizada|tom_adaptado|status_reconhecido\"\n    },\n    \"recomendacao_downstream\": {\n      \"abordagem_sugerida\": \"empática_comercial\",\n      \"pontos_enfoque\": [\"cuidado_especializado_poodle\", \"qualidade\", \"preço\"],\n      \"tom_recomendado\": \"caloroso\"\n    },\n    \"analise\": \"Cliente com tom positivo busca informações comerciais sobre banho para Poodle Luna. Saudação humanizada com conhecimento específico da raça para criar conexão e preparar para detalhamento comercial.\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"NOVO\",\n      \"contexto_emocional\": \"positivo\",\n      \"ID\": \"5516993448117@s.whatsapp.net\",\n      \"Email\": \"\",\n      \"Cliente\": \"Gabriel Batista\",\n      \"DDD\": \"\",\n      \"Telefone\": \"\",\n      \"Status Cliente\": \"ativo\",\n      \"Nome do Pet\": \"Luna\",\n      \"Raça do Pet\": \"Poodle\",\n      \"Tamanho do Pet\": \"\",\n      \"Status do Pet\": \"\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": 0\n    }\n  }\n}"
+  }
+}
