@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Amanhã de manhã se possível",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T18:01:43.721Z",
+      "sao_paulo": "14/08/2025, 15:01:43"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"AGENDAMENTO\",\n    \"secundarias\": [],\n    \"contextuais\": [\"URGENCIA\"]\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"urgente\",\n    \"confianca_classificacao\": 98,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"amanhã\", \"manhã\", \"possível\"]\n  },\n  \"justificativa_rapida\": \"Cliente solicita agendamento urgente para amanhã de manhã, demonstrando preferência clara por horário específico.\"\n}"
+  }
+}
