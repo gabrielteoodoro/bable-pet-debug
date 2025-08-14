@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Sim é para Lira",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:45:09.649Z",
+      "sao_paulo": "14/08/2025, 14:45:09"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"AGENDAMENTO\",\n    \"secundarias\": [],\n    \"contextuais\": [\"SEGUIMENTO\"]\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 90,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"sim\", \"Lira\"]\n  },\n  \"justificativa_rapida\": \"Confirmação do agendamento para o pet Lira, continuidade da conversa com tom positivo.\"\n}"
+  }
+}
