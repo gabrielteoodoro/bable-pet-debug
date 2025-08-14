@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Vocês funcionam no sábado? Que horas?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:25:20.486Z",
+      "sao_paulo": "14/08/2025, 14:25:20"
+    }
+  },
+  "data": {
+    "output": "Oi! Funcionamos aos sábados das 9h às 18h. Posso ajudar com mais alguma informação ou quer agendar um serviço?"
+  }
+}
