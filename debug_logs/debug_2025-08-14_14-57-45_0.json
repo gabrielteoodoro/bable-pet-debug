@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:57:45.562Z",
+      "sao_paulo": "14/08/2025, 14:57:45"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"SOLICITAR_TIPO_BANHO\",\n    \"script_sugerido\": \"Olá Gabriel! Para garantir o melhor cuidado para a Lira e a Lola, você poderia me informar qual tipo de banho você deseja agendar? Temos opções que se adaptam às necessidades específicas de cada pet.\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Lira, Lola\",\n      \"pet_raca\": \"Indeterminada até 35 cm\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"\",\n      \"contextualizacao_raca\": \"A raça não está definida, mas sabemos que pets de porte pequeno, como a Lira e a Lola, merecem um banho cuidadoso e delicado para manter a pelagem saudável e o conforto.\",\n      \"status_assinante\": \"DESCONHECIDO\"\n    },\n    \"analise\": \"Ficha comercial atualizada com dados do cliente e pets. Serviço definido como banho, porém o tipo específico de banho ainda não foi informado. Solicitação gentil para definição do tipo de banho para melhor personalização.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"solicitando_detalhes_servico\"\n  }\n}"
+  }
+}
