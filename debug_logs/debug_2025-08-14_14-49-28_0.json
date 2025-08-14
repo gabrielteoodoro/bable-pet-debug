@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "É uma Poodle",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:49:28.052Z",
+      "sao_paulo": "14/08/2025, 14:49:28"
+    }
+  },
+  "data": {
+    "output": "Oi Gabriel! Que bom saber que a Lira é uma Poodle, elas precisam de cuidados especiais para manter o pelo saudável e bonito. O banho para Poodles custa R$ 80, mas como cliente ativo, você pode aproveitar nosso clube por R$ 65. Qual dia e horário prefere para agendar?"
+  }
+}
