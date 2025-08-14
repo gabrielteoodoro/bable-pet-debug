@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Vocês funcionam no sábado? Que horas?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-08-14T17:24:52.045Z",
+      "sao_paulo": "14/08/2025, 14:24:52"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"FAQ\",\n    \"secundarias\": [],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"neutro\",\n    \"confianca_classificacao\": 95,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"funcionam\", \"sábado\", \"horas\"]\n  },\n  \"justificativa_rapida\": \"Cliente busca informação sobre funcionamento e horário no sábado, sem urgência ou reclamação.\"\n}"
+  }
+}
