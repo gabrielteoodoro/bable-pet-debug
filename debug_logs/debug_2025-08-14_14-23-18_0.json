@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-08-14T17:23:18.445Z",
+      "sao_paulo": "14/08/2025, 14:23:18"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"COMERCIAL_POODLE_HUMANIZADO\",\n    \"script_sugerido\": \"Olá Gabriel! A Luna é uma Poodle encantadora, e sabemos que essa raça precisa de cuidados especiais para manter a pelagem sempre saudável e brilhante. O banho para a Luna custa R$ 90,00. Como você ainda não é assinante do nosso clube, gostaria de te contar que temos um plano especial que oferece descontos e benefícios exclusivos, que podem significar uma economia significativa para você. Que tal agendarmos o primeiro banho da Luna para garantir todo esse cuidado? Estou aqui para ajudar no agendamento quando quiser!\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Luna\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"\",\n      \"contextualizacao_raca\": \"Poodles têm pelagem delicada que exige cuidados frequentes para evitar nós e manter o brilho natural, ideal para peles sensíveis e pets que adoram estar sempre bem cuidados.\",\n      \"status_assinante\": \"NAO_ASSINANTE\"\n    },\n    \"analise\": \"Contextualização empática realizada, expertise demonstrada, transição para agendamento criada\",\n    \"proxima_acao_sugerida\": \"TRANSICAO_AGENDAMENTO\",\n    \"status_operacao\": \"cotacao_fornecida_com_expertise\"\n  }\n}"
+  }
+}
