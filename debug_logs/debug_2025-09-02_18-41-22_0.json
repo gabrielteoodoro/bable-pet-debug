@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Preciso agendar tosa pro meu Golden Bobby hoje ainda!",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-02T21:41:22.295Z",
+      "sao_paulo": "02/09/2025, 18:41:22"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"AGENDAMENTO\",\n    \"secundarias\": [],\n    \"contextuais\": [\"URGENCIA\"]\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"urgente\",\n    \"confianca_classificacao\": 98,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"preciso\", \"agendar\", \"tosa\", \"Golden\", \"Bobby\", \"hoje\", \"ainda\"]\n  },\n  \"justificativa_rapida\": \"Cliente demonstra urgência clara para agendar tosa para o Golden Bobby ainda hoje.\"\n}"
+  }
+}
