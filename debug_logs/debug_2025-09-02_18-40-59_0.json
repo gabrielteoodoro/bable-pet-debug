@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-02T21:40:59.433Z",
+      "sao_paulo": "02/09/2025, 18:40:59"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"COMERCIAL_POODLE_HUMANIZADO\",\n    \"script_sugerido\": \"Olá Gabriel! Que alegria falar sobre a Luna, sua charmosa Poodle. Sabemos que os Poodles têm um pelo delicado que merece um cuidado especial para manter a beleza e saúde. O banho para ela, considerando o porte pequeno (grupo G2), custa R$ 80,00. Como você ainda não é assinante do nosso clube, gostaria de te lembrar que ao se tornar um membro, você pode economizar até 20% nos serviços, além de receber benefícios exclusivos como agendamentos prioritários e descontos em produtos. Que tal agendarmos o primeiro banho da Luna para garantir todo esse cuidado especial? Posso ajudar a marcar para você!\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"pet_nome\": \"Luna\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"contextualizacao_raca\": \"Poodles possuem pelagem delicada que requer cuidados especiais para evitar nós e manter a saúde da pele.\",\n      \"status_assinante\": \"NAO_ASSINANTE\"\n    },\n    \"analise\": \"Contextualização empática realizada com expertise sobre Poodle, preço informado, benefícios do clube apresentados, e transição natural para agendamento criada.\",\n    \"proxima_acao_sugerida\": \"TRANSICAO_AGENDAMENTO\",\n    \"status_operacao\": \"cotacao_fornecida_com_expertise\"\n  }\n}"
+  }
+}
