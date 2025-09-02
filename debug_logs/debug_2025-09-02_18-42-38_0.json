@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Vocês funcionam no sábado? Que horas?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-02T21:42:38.588Z",
+      "sao_paulo": "02/09/2025, 18:42:38"
+    }
+  },
+  "data": {
+    "output": "Oi Gabriel! A Bable Pet funciona de segunda a sexta, das 9h às 18h, e aos sábados das 9h às 13h. Quer que eu te ajude a agendar um horário para a Lira?"
+  }
+}
