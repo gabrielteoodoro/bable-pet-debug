@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-02T21:42:26.872Z",
+      "sao_paulo": "02/09/2025, 18:42:26"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"script_id_sugerido\": \"BEMVINDO_CADASTRADO_FORA_HORARIO\",\n    \"script_sugerido\": \"Olá novamente, Gabriel! Bem-vindo de volta à Bable Pet 🐾. Atualmente estamos fechados, mas se quiser podemos agendar uma visita para seu amigo de 4 patas para nosso próximo dia útil! Nosso horário de funcionamento é de segunda a sexta das 9h às 18h e aos sábados das 9h às 13h.\",\n    \"prioridade_mestre\": \"feedback_saudacao\",\n    \"variaveis\": {\n      \"Nome\": \"Gabriel\",\n      \"nome_pet\": \"Lira\"\n    },\n    \"analise\": \"Cliente cadastrado Gabriel, pet Lira, saudação personalizada aplicada\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"CADASTRADO\",\n      \"Cliente\": \"Gabriel Batista\",\n      \"Nome do Pet\": \"Lira\",\n      \"Raça do Pet\": \"Indeterminada até 35 cm\",\n      \"Tamanho do Pet\": \"G2 - Pequeno\",\n      \"Email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"DDD\": \"16\",\n      \"Telefone\": \"993448117\",\n      \"Loja\": \"Bable Pet Piracicaba\",\n      \"Visitas\": \"2\"\n    }\n  }\n}"
+  }
+}
