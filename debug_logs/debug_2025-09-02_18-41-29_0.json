@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-02T21:41:29.106Z",
+      "sao_paulo": "02/09/2025, 18:41:29"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"script_id_sugerido\": \"CENARIO_CANCELAMENTO_URGENTE\",\n    \"script_sugerido\": \"Olá Gabriel, entendo a urgência para agendar a tosa do Bobby hoje. No momento, nosso horário comercial já está encerrado, mas vou verificar a disponibilidade para o próximo horário possível e te retorno em seguida. Por favor, aguarde um instante.\",\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"pet_nome\": \"Bobby\",\n      \"pet_raca\": \"Golden Retriever\",\n      \"pet_grupo\": \"G4\",\n      \"pet_tamanho\": \"Grande\",\n      \"servico\": \"tosa\",\n      \"data_agendamento\": \"2025-09-02\",\n      \"hora_agendamento\": \"\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente solicita agendamento urgente para tosa do Golden Bobby ainda hoje, porém fora do horário comercial. Aguardar verificação de disponibilidade para próximo horário possível.\",\n    \"proxima_acao_sugerida\": \"FINALIZAR_AGENDAMENTO\",\n    \"status_operacao\": \"finalizando\"\n  }\n}"
+  }
+}
