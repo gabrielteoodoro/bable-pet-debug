@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-02T21:40:46.298Z",
+      "sao_paulo": "02/09/2025, 18:40:46"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"script_id_sugerido\": \"CONFIRMAR_PET_CADASTRADO\",\n    \"script_sugerido\": \"Olá Gabriel! Vejo que você tem uma Poodle chamada Luna. Gostaria de agendar um banho para ela? Por favor, me informe a data que prefere.\",\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"Gabriel Batista\",\n      \"email\": \"gabriel.teodoro.batista@gmail.com\",\n      \"pet_nome\": \"Luna\",\n      \"pet_raca\": \"Poodle\",\n      \"pet_grupo\": \"G2\",\n      \"pet_tamanho\": \"Pequeno\",\n      \"servico\": \"banho\",\n      \"data_agendamento\": \"\",\n      \"hora_agendamento\": \"\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente Gabriel com pet Luna (Poodle) identificado. Serviço banho selecionado. Aguardando data para agendamento. Atendimento iniciado fora do horário comercial, informar cliente.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
