@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Olá! Como vocês estão?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T15:09:50.042Z",
+      "sao_paulo": "05/09/2025, 12:09:50"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"SAUDACAO\",\n    \"secundarias\": [],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 95,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"olá\", \"vocês\", \"estão\"]\n  },\n  \"justificativa_rapida\": \"Mensagem genuinamente introdutória com tom positivo, caracterizando saudação.\"\n}"
+  }
+}
