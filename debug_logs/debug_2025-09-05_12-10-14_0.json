@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Quanto custa banho para cachorro grande?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T15:10:14.376Z",
+      "sao_paulo": "05/09/2025, 12:10:14"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"COMERCIAL\",\n    \"secundarias\": [\"AGENDAMENTO\"],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"neutro\",\n    \"confianca_classificacao\": 90,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"quanto\", \"custa\", \"banho\", \"cachorro\", \"grande\"]\n  },\n  \"justificativa_rapida\": \"Cliente pergunta preço de banho para cachorro grande, indicando interesse comercial e possível intenção de agendar.\"\n}"
+  }
+}
