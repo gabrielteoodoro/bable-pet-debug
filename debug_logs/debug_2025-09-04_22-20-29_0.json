@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Quanto custa banho para Golden Retriever?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T01:20:29.227Z",
+      "sao_paulo": "04/09/2025, 22:20:29"
+    }
+  },
+  "data": {
+    "output": "Oi Gabriel! Para te passar o preço do banho do Golden Retriever, pode me informar o tamanho ou peso dele? Assim, te dou um valor certinho. Qual o nome do seu pet?"
+  }
+}
