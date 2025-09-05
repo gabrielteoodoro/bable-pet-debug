@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Quanto custa banho para Golden Retriever?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T01:20:08.477Z",
+      "sao_paulo": "04/09/2025, 22:20:08"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"COMERCIAL\",\n    \"secundarias\": [\"AGENDAMENTO\"],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"neutro\",\n    \"confianca_classificacao\": 95,\n    \"historico_considerado\": true,\n    \"palavras_chave_detectadas\": [\"custo\", \"banho\", \"Golden Retriever\"]\n  },\n  \"justificativa_rapida\": \"Cliente pergunta preço de banho para Golden Retriever, indicando possível interesse em agendar o serviço.\"\n}"
+  }
+}
