@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-05T01:20:27.528Z",
+      "sao_paulo": "04/09/2025, 22:20:27"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"SOLICITAR_TAMANHO_DO_PET\",\n    \"script_sugerido\": \"Olá! Para fornecer um preço preciso para o banho do seu Golden Retriever, poderia me informar o tamanho ou peso aproximado do seu pet? Isso nos ajuda a oferecer o melhor cuidado e valor para ele.\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"\",\n      \"pet_nome\": \"\",\n      \"pet_raca\": \"Golden Retriever\",\n      \"pet_grupo\": \"\",\n      \"pet_tamanho\": \"\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"\",\n      \"contextualizacao_raca\": \"\",\n      \"status_assinante\": \"DESCONHECIDO\"\n    },\n    \"analise\": \"Raça Golden Retriever identificada, porém grupo e preço não encontrados. Solicitando tamanho para cotação precisa.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
