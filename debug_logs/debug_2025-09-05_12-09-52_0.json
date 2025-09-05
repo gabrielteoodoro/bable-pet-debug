@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Olá! Como vocês estão?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T15:09:52.735Z",
+      "sao_paulo": "05/09/2025, 12:09:52"
+    }
+  },
+  "data": {
+    "output": "Oi! Estamos bem, obrigado por perguntar. Como posso ajudar você e seu pet hoje?"
+  }
+}
