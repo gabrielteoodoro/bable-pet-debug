@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Agendamento Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-05T01:20:16.751Z",
+      "sao_paulo": "04/09/2025, 22:20:16"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_agendamento\": {\n    \"script_id_sugerido\": \"SOLICITAR_SERVICO\",\n    \"script_sugerido\": \"Entendi que você quer saber sobre banho para Golden Retriever. Posso ajudar a agendar esse serviço para seu pet. Qual o nome do seu pet, por favor?\",\n    \"ficha_atendimento\": {\n      \"cliente_nome\": \"\",\n      \"email\": \"\",\n      \"pet_nome\": \"\",\n      \"pet_raca\": \"Golden Retriever\",\n      \"pet_grupo\": \"\",\n      \"pet_tamanho\": \"\",\n      \"servico\": \"banho\",\n      \"data_agendamento\": \"\",\n      \"hora_agendamento\": \"\",\n      \"id_evento_calendar\": null,\n      \"id_atendimento_planilha\": null\n    },\n    \"analise\": \"Cliente demonstrou interesse no serviço de banho para Golden Retriever. Iniciando coleta de dados para agendamento.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
