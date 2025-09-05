@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Oi, tudo bem?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-05T14:23:49.743Z",
+      "sao_paulo": "05/09/2025, 11:23:49"
+    }
+  },
+  "data": {
+    "output": "Olá! Que bom receber você na Bable Pet! 😃 Para começar, qual o seu nome completo? Posso ajudar com o banho do seu pet ou outra coisa que precisar."
+  }
+}
