@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Indefinido Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-08T20:18:52.936Z",
+      "sao_paulo": "08/09/2025, 17:18:52"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_indefinido\": {\n    \"script_id_sugerido\": \"INTENCAO_AMBIGUA_EMPATICO\",\n    \"script_personalizado\": \"Desculpe, quero ter certeza de entender perfeitamente para te ajudar da melhor forma. Você poderia, por favor, esclarecer um pouco mais sua mensagem?\",\n    \"analise\": \"Mensagem ambígua e sem contexto claro, classificada como intenção genuinamente ambígua.\",\n    \"classificacao_impasse\": \"INTENCAO_GENUINAMENTE_AMBIGUA\",\n    \"causa_raiz\": \"Mensagem claramente um teste sem intenção de serviço, comercial ou urgência.\",\n    \"historico_tentativas\": \"Nenhuma tentativa anterior registrada\",\n    \"nivel_frustracao\": \"baixo\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_ESCLARECIMENTO\",\n    \"variaveis\": {\n      \"nome_cliente\": null,\n      \"situacao_identificada\": \"Mensagem de teste sem intenção clara\",\n      \"motivo_transferencia\": null\n    },\n    \"status_operacao\": {\n      \"acao_executada\": \"diagnostico_humanizado_de_impasse\",\n      \"sucesso\": true,\n      \"detalhes\": \"Resposta empática sugerida para mensagem ambígua\"\n    }\n  }\n}"
+  }
+}
