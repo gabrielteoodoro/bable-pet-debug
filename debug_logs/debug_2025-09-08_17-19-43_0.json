@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Olá, teste rápido",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-08T20:19:43.917Z",
+      "sao_paulo": "08/09/2025, 17:19:43"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"SAUDACAO\",\n    \"secundarias\": [],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"positivo\",\n    \"confianca_classificacao\": 95,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"olá\", \"teste\", \"rápido\"]\n  },\n  \"justificativa_rapida\": \"Mensagem inicia com saudação genuína e contém indicação de teste rápido, sem outras intenções claras.\"\n}"
+  }
+}
