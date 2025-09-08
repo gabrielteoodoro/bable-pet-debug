@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Comercial Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-08T20:22:09.929Z",
+      "sao_paulo": "08/09/2025, 17:22:09"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_comercial\": {\n    \"script_id_sugerido\": \"SOLICITAR_RACA_DO_PET\",\n    \"script_sugerido\": \"Olá! Para informar o preço do banho com precisão, poderia me informar a raça do seu pet? Assim posso te dar uma cotação personalizada e adequada ao tamanho e necessidades dele.\",\n    \"ficha_comercial\": {\n      \"cliente_nome\": \"\",\n      \"pet_nome\": \"\",\n      \"pet_raca\": \"\",\n      \"pet_grupo\": \"\",\n      \"pet_tamanho\": \"\",\n      \"servico\": \"banho\",\n      \"servico_especifico\": \"\",\n      \"contextualizacao_raca\": \"\",\n      \"status_assinante\": \"DESCONHECIDO\"\n    },\n    \"analise\": \"Faltam dados essenciais para cotação: raça do pet não informada. Solicitando informação para personalizar atendimento.\",\n    \"proxima_acao_sugerida\": \"AGUARDAR_RESPOSTA_CLIENTE\",\n    \"status_operacao\": \"coletando_dados\"\n  }\n}"
+  }
+}
