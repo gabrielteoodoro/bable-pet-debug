@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Saudacao Bable Pet",
+    "chat_input": null,
+    "found_from": "current_item",
+    "received_at": {
+      "iso": "2025-09-08T19:49:01.285Z",
+      "sao_paulo": "08/09/2025, 16:49:01"
+    }
+  },
+  "data": {
+    "output": "{\n  \"feedback_saudacao\": {\n    \"script_id_sugerido\": \"BEMVINDO_NOVO_CLIENTE\",\n    \"script_sugerido\": \"Olá! Que alegria te receber na Bable Pet! 😃 Para clientes novos, temos 50% de desconto no primeiro banho de segunda a quinta-feira. Para começar, qual o seu nome completo?\",\n    \"prioridade_mestre\": \"feedback_saudacao\",\n    \"variaveis\": {\n      \"Nome\": null,\n      \"nome_pet\": null\n    },\n    \"analise\": \"Cliente não identificado, status NOVO, loja ABERTO, script padrão para novo cliente aplicado\",\n    \"dados_cliente\": {\n      \"status_cliente\": \"NOVO\",\n      \"Cliente\": null,\n      \"Nome do Pet\": null,\n      \"Raça do Pet\": null,\n      \"Tamanho do Pet\": null,\n      \"Email\": null,\n      \"DDD\": null,\n      \"Telefone\": null,\n      \"Loja\": null,\n      \"Visitas\": null\n    }\n  }\n}"
+  }
+}
