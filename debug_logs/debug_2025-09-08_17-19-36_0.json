@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Teste básico do sistema - favor ignorar",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-08T20:19:36.921Z",
+      "sao_paulo": "08/09/2025, 17:19:36"
+    }
+  },
+  "data": {
+    "output": "Oi! Vi que sua mensagem é um teste do sistema. Se precisar de ajuda ou quiser saber mais sobre nossos serviços, estou aqui. Como posso ajudar você hoje?"
+  }
+}
