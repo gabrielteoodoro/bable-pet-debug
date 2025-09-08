@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Orquestrador Bable Pet",
+    "chat_input": "Teste básico do sistema - favor ignorar",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-08T20:19:21.295Z",
+      "sao_paulo": "08/09/2025, 17:19:21"
+    }
+  },
+  "data": {
+    "output": "{\n  \"intencoes\": {\n    \"primaria\": \"INDEFINIDO\",\n    \"secundarias\": [],\n    \"contextuais\": []\n  },\n  \"analise_contextual\": {\n    \"tom_emocional\": \"neutro\",\n    \"confianca_classificacao\": 90,\n    \"historico_considerado\": false,\n    \"palavras_chave_detectadas\": [\"teste\", \"básico\", \"sistema\", \"ignorar\"]\n  },\n  \"justificativa_rapida\": \"Mensagem claramente um teste sem intenção de serviço, comercial ou urgência.\"\n}"
+  }
+}
