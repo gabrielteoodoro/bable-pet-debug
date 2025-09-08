@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "agent": "Agente Mestre Bable Pet",
+    "chat_input": "Olá, qual o preço do banho?",
+    "found_from": "node:STORE MESSAGE",
+    "received_at": {
+      "iso": "2025-09-08T20:22:13.926Z",
+      "sao_paulo": "08/09/2025, 17:22:13"
+    }
+  },
+  "data": {
+    "output": "Oi! O preço do banho varia conforme o porte e a raça do seu pet. Para te passar certinho, qual o nome e a raça dele? Assim já posso ajudar com o agendamento também."
+  }
+}
